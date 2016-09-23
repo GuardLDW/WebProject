@@ -9,7 +9,7 @@
 ####aa=b;
 ####}
 ####当执行单步跳入后，进入fun()函数的第一句语句，继续调试
-*****************************
+
 ####2.
 ####aa=fun();←当前断点位置
 ####bb=aa;
@@ -29,4 +29,12 @@
 ####fun();
 ####dd=ee;
 ####}
-####当执行单步返回后，转到main函数的dd=ee;语句，继续调试
+####当执行单步跳出后，转到main函数的dd=ee;语句，继续调试
+
+
+##图片
+![](https://github.com/GuardLDW/HelloWorld/blob/master/image/scream1.png)
+![](https://github.com/GuardLDW/HelloWorld/blob/master/image/scream2.png)
+![](https://github.com/GuardLDW/HelloWorld/blob/master/image/scream3.png)
+![](https://github.com/GuardLDW/HelloWorld/blob/master/image/scream4.png)
+![](https://github.com/GuardLDW/HelloWorld/blob/master/image/scream5.png)
